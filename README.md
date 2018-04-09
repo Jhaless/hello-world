@@ -1,5 +1,5 @@
 # hello-world
-First thing to do
+
 
 This is my first time on github.
 I just started to learn HTML and I hope to learn at least until JS. I want to be able to develop webpages and eventually maybe some apps.
